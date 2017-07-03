@@ -1,0 +1,14 @@
+SILAB Workspace
+{
+	MainWindowX = 1400;
+	MainWindowY = 401;
+	MainWindowW = 1025;
+	MainWindowH = 890;
+	TreeHeightPerc = 26.7413;
+	LocalConfigFile = "LCT.cfg";
+	ComputerPool = "Simulator";
+	DPUPool = "Allround";
+    Group = 0;
+    TreeviewGroup = 0;
+    ShowTilde = 0;
+};
